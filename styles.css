@@ -1,0 +1,12 @@
+#page-number {
+    font-size: 18px;
+    margin: 10px;
+  }
+
+  .box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    
+  }
